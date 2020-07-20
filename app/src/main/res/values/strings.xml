@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">toDo App Kotlin</string>
+    <string name="et_hint_create_new_task">Create New Task</string>
+    <string name="btn_text_save_task">Save Task</string>
+</resources>
